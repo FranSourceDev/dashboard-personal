@@ -9,7 +9,22 @@ import {
     Tooltip,
     Legend
 } from 'recharts';
-// Firebase imports removed
+import {
+    Zap,
+    Activity,
+    Brain,
+    Users,
+    Smile,
+    Heart,
+    DollarSign,
+    Target,
+    TrendingUp,
+    Loader2,
+    Save,
+    RotateCcw,
+    Trash2,
+    History
+} from 'lucide-react';
 
 
 /**
