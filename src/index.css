@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply font-sans antialiased text-slate-900 dark:text-slate-100 bg-background-light dark:bg-background-dark;
+    }
+}
+
+.chart-gradient {
+    background: linear-gradient(180deg, rgba(19, 91, 236, 0.2) 0%, rgba(19, 91, 236, 0) 100%);
+}
